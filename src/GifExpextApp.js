@@ -2,10 +2,10 @@ import React, { useState } from 'react';
 import { AddCategory } from './components/AddCategory';
 import { GifGrid } from './components/GifGrid';
 
-const GifExpertApp = () => {
+const GifExpertApp = ({ defaultCategories = ['Animals'] }) => {
 
 
-    const [categories, setCategories] = useState(['Animanls'])
+    const [categories, setCategories] = useState(defaultCategories);
 
     return (
         <>

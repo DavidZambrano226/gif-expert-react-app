@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GifGridItem test component should make match with snapshot 1`] = `
+<div
+  className="card animate__animated animate__zoomIn"
+>
+  <img
+    alt="Custom title test"
+    src="http://someurl.test.com"
+  />
+  <p>
+    Custom title test
+  </p>
+</div>
+`;
