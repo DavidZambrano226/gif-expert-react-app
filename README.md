@@ -3,7 +3,7 @@
 This project was building with React and calling the Giphy API.
 
 Test the application making click in this link 
-[Demo Gif Expert](https://davidzambrano226.github.io/gif-expert-rect-app/)
+[Demo Gif Expert](https://davidzambrano226.github.io/gif-expert-react-app/)
 
 ## Available Scripts - Developer Mode
 
